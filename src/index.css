@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+html { color-scheme: dark; }
+body { background: #09090b; }
